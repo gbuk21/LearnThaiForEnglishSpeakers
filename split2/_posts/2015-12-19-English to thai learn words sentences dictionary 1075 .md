@@ -17,5 +17,3 @@ How to learn Thai words and sentences for English speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
- 
-{% include analytics.html %}
